@@ -14,11 +14,11 @@ function Home() {
         Para mas informacion dele clic en el boton de detalle, o en whatsapp
         para comunicarse con nosotros.
       </P>
+      <Card/>
       <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <Card/>
+      <Card/>
+      <Card/>
       <Footer />
     </Wrapper>
   )

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 function CartTopSide() {
   return (
     <Wrapper>
-      <Title>Nombre</Title>
+      <Title>Tubos de oxigeno</Title>
       <Subtitle>Codigo</Subtitle>
       <Brand>Marca</Brand>
       <Price>$us 250.00</Price>
