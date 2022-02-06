@@ -10,3 +10,9 @@ export const Producto1 = {
     brand:'Maquinaria',
     code:'1',
 }
+export const Producto2 = {
+    title:'Maquinaria',
+    price:'$1.000.000',
+    brand:'Maquinaria',
+    code:'1',
+}

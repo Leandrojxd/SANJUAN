@@ -1,10 +1,11 @@
 import React from 'react'
 import styled from 'styled-components'
+import { Producto1 } from '../../data/Data'
 
 function CartTopSide() {
   return (
     <Wrapper>
-      <Title>Tubos de oxigeno</Title>
+      <Title>{Producto1.title}</Title>
       <Subtitle>Codigo</Subtitle>
       <Brand>Marca</Brand>
       <Price>$us 250.00</Price>
